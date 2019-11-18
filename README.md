@@ -1,4 +1,4 @@
-#  Generador de plantillas para Revistas
+#  Glide Test Api
 
 ## pre-requisitos
  - Python 3.5 o superior
