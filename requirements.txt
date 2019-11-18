@@ -1,0 +1,14 @@
+certifi==2019.9.11
+chardet==3.0.4
+Click==7.0
+dotty-dict==1.2.1
+Flask==1.1.1
+idna==2.8
+itsdangerous==1.1.0
+Jinja2==2.10.3
+MarkupSafe==1.1.1
+requests==2.22.0
+setuptools-scm==3.3.3
+urllib3==1.25.7
+virtualenv==16.6.0
+Werkzeug==0.16.0
