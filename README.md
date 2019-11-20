@@ -27,6 +27,15 @@ $ export FLASK_ENV=development
 $ flask run
 ```
 
+## testing
 
+```
+$ pytest
+```
 
+## coverage
 
+```
+$ coverage run -m pytest
+$ coverage report
+```
